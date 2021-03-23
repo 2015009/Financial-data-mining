@@ -1,2 +1,2 @@
 # Financial-data-mining
-Some basic models and papers about financial data mining. 
+ML models and papers about financial data mining. 
